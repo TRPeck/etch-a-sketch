@@ -4,4 +4,4 @@ Project: Etch-a-Sketch from the Odin Project Foundations Course
 
 "A browser version of something between a sketchpad and an Etch-a-Sketch."
 
-To practice HTML, CSS, and Javascript skills.
+To practice Javascript and DOM manipulation.
